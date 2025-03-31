@@ -1,6 +1,19 @@
-<<<<<<< HEAD
 # Rock-Paper-Scissor-Game
-=======
-# Rock-Paper-Scissors-Game
->>>>>>> 720bba798e3a5f937bbef96218df7fe1438e7a16
-🪨📄✂️ Rock, Paper, Scissors Game – A fun and interactive game built with HTML, Tailwind CSS, and JavaScript! Play against the computer with real-time results, smooth animations, and a fully responsive design. Can you beat the AI? Try your luck now! 🚀🔥
+🪨📄✂️ Rock, Paper, Scissors Game – A fun and interactive game built with HTML, CSS, and JavaScript. Challenge the AI in this classic game with real-time results, smooth animations, and a fully responsive design. Can you beat the computer? Play now and test your luck! 🚀🔥
+
+✨ Features
+✅ Play Against AI – Face off with the computer and see who wins!
+✅ Instant Feedback – Real-time display of the result after each round.
+✅ Smooth Animations – Interactive button effects and transitions for a polished user experience.
+✅ Fully Responsive – Works seamlessly on desktop, tablet, and mobile devices.
+✅ Lightweight & Fast – No unnecessary dependencies; optimized for performance.
+
+🛠️ Tech Stack
+🔹 HTML – For app structure and layout.
+🔹 CSS – For a sleek, modern, and responsive design.
+🔹 JavaScript – Handles game logic, AI interactions, and animations.
+
+🚀 Live Demo & Contributions
+🔗 Live Demo: [Deploy Link]
+📌 Star ⭐ this project & contribute – Fork, improve, and create pull requests to enhance the game experience.
+
