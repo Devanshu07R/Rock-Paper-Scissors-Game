@@ -14,6 +14,6 @@
 🔹 JavaScript – Handles game logic, AI interactions, and animations.
 
 🚀 Live Demo & Contributions
-🔗 Live Demo: [Deploy Link]
+🔗 Live Demo:  https://devanshu07r.github.io/Rock-Paper-Scissors-Game/
 📌 Star ⭐ this project & contribute – Fork, improve, and create pull requests to enhance the game experience.
 
