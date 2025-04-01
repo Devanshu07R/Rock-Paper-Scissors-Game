@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-Game
+# 🪨📄✂️Rock-Paper-Scissor-Game
 🪨📄✂️ Rock, Paper, Scissors Game – A fun and interactive game built with HTML, CSS, and JavaScript. Challenge the AI in this classic game with real-time results, smooth animations, and a fully responsive design. Can you beat the computer? Play now and test your luck! 🚀🔥
 
 ✨ Features
