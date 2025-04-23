@@ -24,5 +24,5 @@
 
 ---
 
-📌 Star ⭐ this project & contribute – Fork, improve, and create pull requests to enhance the game experience.hhhfbbfdhhfd
+📌 Star ⭐ this project & contribute – Fork, improve, and create pull requests to enhance the game experience.
 
