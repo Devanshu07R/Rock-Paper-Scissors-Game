@@ -15,7 +15,7 @@
 🛠️ Tech Stack
 🔹 HTML – For app structure and layout.
 🔹 CSS – For a sleek, modern, and responsive design.
-🔹 JavaScript – Handles game logic, AI interactions, and animations.
+🔹 JavaScript – Handles game logic, AI interactions, and animations.hhgfhhggh
 
 ---
 
